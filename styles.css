@@ -20,14 +20,14 @@ ol, ul {
 .square {
   background: #45CCDB ;
   border: 1px solid #999;
-  float: center;
+  float: left;
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
   height: 75px;
   margin-right: -1px;
   margin-top: -1px;
-  padding: 5;
+  
   border radius:10px;
   text-align: center;
   width: 75px;
